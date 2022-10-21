@@ -1,0 +1,12 @@
+[1mdiff --git a/pag3.html b/pag3.html[m
+[1mindex 8e89068..3011141 100644[m
+[1m--- a/pag3.html[m
+[1m+++ b/pag3.html[m
+[36m@@ -8,5 +8,6 @@[m
+ </head>[m
+ <body>[m
+     <h2>Pagina 3</h2>[m
+[32m+[m[32m    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi harum aliquam velit voluptate est possimus earum facere sit. Sint non necessitatibus, dolores voluptas eum nam sit praesentium consectetur dolor aperiam.</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
